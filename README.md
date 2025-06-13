@@ -1,2 +1,1 @@
-[﻿# ProjetPr-pa
-](https://github.com/Aphemcriptic/ProjetPr-pa/Formule_Turing.jpg)
+https://github.com/Aphemcriptic/ProjetPr-pa/blob/main/Formule__Turing.jpg
